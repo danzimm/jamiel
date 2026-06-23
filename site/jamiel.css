@@ -1,0 +1,4 @@
+main section h1 .jamiel-accent {
+  color: var(--accent-color-strong);
+  --element-color: var(--accent-color-strong);
+}

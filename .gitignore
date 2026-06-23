@@ -1,0 +1,7 @@
+sitegen/
+.codex/
+.codexbk/
+.codex-screenshots/
+scripts/
+ingest/
+tmp/
